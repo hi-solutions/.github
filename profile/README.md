@@ -34,11 +34,32 @@ We help businesses launch faster, scale smarter, and grow stronger.
 - Social Media Management
 - Conversion Optimization
 
+
 ### 🎬 Media Production
 - Product Photography
 - Corporate Videos
 - Reels & Short Content
 - Editing & Motion Graphics
+
+---
+
+## 📊 Services Overview
+```mermaid
+pie title Hi-Solutions Core Services
+    "Software Development" : 50
+    "Marketing Solutions" : 30
+    "Media Production" : 20
+```
+
+## 🔄 How We Work
+```mermaid
+flowchart LR
+    A[Discovery] --> B[Planning]
+    B --> C[Design]
+    C --> D[Development]
+    D --> E[Launch]
+    E --> F[Growth]
+```
 
 ---
 
